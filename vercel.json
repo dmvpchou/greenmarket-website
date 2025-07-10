@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/recruit",
+      "destination": "https://greenfarmersmarket.my.canva.site/",
+      "permanent": true
+    }
+  ]
+}
